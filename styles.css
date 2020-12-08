@@ -1,0 +1,80 @@
+body {
+	background-color: #fffff;
+}
+
+h1 {
+	text-align: center;
+}
+
+footer {
+	color: white;
+	background-color: #4C4C52;
+}
+
+.footer {
+	margin-left: 3%;
+}
+
+.copyright {
+	margin-left: 3%;
+}
+
+.mainsite {
+	text-align: center;
+	background-color: #DEF0FF;
+	box-shadow: 0 0 5px 5px #DEF0FF;
+}
+
+.kuvia {
+	text-align: center;
+	background-color: #DEF0FF;
+	box-shadow: 0 0 5px 5px #DEF0FF;	
+}
+
+.yhteystiedot {
+	background-color: #DEF0FF;
+	box-shadow: 0 0 5px 5px #DEF0FF;
+}
+
+.yhteydenottolomake {
+	background-color: #DEF0FF;
+	box-shadow: 0 0 5px 5px #DEF0FF;
+	padding-bottom: 0%;
+}
+
+.myynti {
+	background-color: #DEF0FF;
+	box-shadow: 0 0 5px 5px #DEF0FF;
+	margin-right: 2%;
+}
+
+.kuvat {
+	background-color: #DEF0FF;
+	box-shadow: 0 0 5px 5px #DEF0FF;
+}
+
+.toinenkaruselli {
+	margin-top: 3%;
+	margin-left: 8%;
+}
+
+nav {
+	display: inline;
+}
+
+.karuselli {
+	width: 500px;
+	height: 500px;
+}
+
+.galleria {
+	width: 500px;
+	height: 500px;
+	display: inline;
+	margin: 1%;
+}
+
+.tuotekuvaus {
+	margin-top: 7%;
+	margin-left: 3%;
+}
